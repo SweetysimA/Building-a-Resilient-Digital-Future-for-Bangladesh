@@ -55,38 +55,15 @@ This is the most recent law. It recognizes access to the internet as a basic rig
 </p>
 
 
-### **Data Protection Laws (Under Development)**  
+<!--### **Data Protection Laws (Under Development)**  -->
+
+
+### ** Data Protection Laws  (Under Development)**
 
 <p align="justify">
-Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
-</p>
+Bangladesh is in the process of introducing a comprehensive <strong>Data Protection Law </strong> to safeguard citizens’ personal information in the digital space. The proposed law aims to establish clear rules for how data is collected, used, and shared by organizations and service providers.
 
-
-
-### **Other Important Laws Related to Cybersecurity**  
-- **Telecommunications Act, 2001:** Regulates phone and internet service providers to ensure compliance with national standards. 
-- **Electronic Transaction Act, 2006:** Covers the use of electronic signatures and ensures the legality of online transactions.  
-
-- Various government rules also support cybersecurity and safe use of technology.
-
-<br>
-
-
-<p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Although these laws cover many cybercrimes, they still fall short in key areas such as protecting personal data, ensuring digital rights, and clearly defining offenses. Most laws lack strong data privacy measures, use vague language open to misuse, and do not adequately regulate emerging technologies like AI. These gaps highlight the need for more balanced, transparent, and forward-looking legal reforms.
-</p>
-
-
-
----
-
-<!-- ## Data Protection Law (Draft) — Bangladesh (Upcoming) -->
-# Draft Data Protection Law in Bangladesh
-
-<p align="justify">
-Bangladesh is in the process of introducing a comprehensive **Data Protection Law** to safeguard citizens’ personal information in the digital space. The proposed law aims to establish clear rules for how data is collected, used, and shared by organizations and service providers.
-
-### Key Features of this Draft Law
+### Features of this Draft Law
 
 - **Informed Consent**  
   Organizations must clearly explain why they are collecting personal data and obtain consent from users before doing so.
@@ -103,10 +80,26 @@ Bangladesh is in the process of introducing a comprehensive **Data Protection La
 - **Regulatory Oversight**  
   A **Data Protection Authority (DPA)** is expected to be formed to monitor compliance, investigate complaints, and enforce penalties for misuse of data.
 
-### Current Status
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
+</p>
 
-The law is still in draft form and has not yet been enacted. However, it represents a significant step toward ensuring data privacy, building public trust in digital services, and aligning Bangladesh with global data protection standards.
+</p>
 
+
+
+
+### **Other Important Laws Related to Cybersecurity**  
+- **Telecommunications Act, 2001:** Regulates phone and internet service providers to ensure compliance with national standards. 
+- **Electronic Transaction Act, 2006:** Covers the use of electronic signatures and ensures the legality of online transactions.  
+
+- Various government rules also support cybersecurity and safe use of technology.
+
+<br>
+
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Although these laws cover many cybercrimes, they still fall short in key areas such as protecting personal data, ensuring digital rights, and clearly defining offenses. Most laws lack strong data privacy measures, use vague language open to misuse, and do not adequately regulate emerging technologies like AI. These gaps highlight the need for more balanced, transparent, and forward-looking legal reforms.
 </p>
 
 
