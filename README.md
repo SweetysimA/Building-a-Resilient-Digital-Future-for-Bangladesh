@@ -15,59 +15,52 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 </p>
 
 
-## CYBER LAWS OF BANGLADESH
+## EXISTING CYBER LAWS OF BANGLADESH
 <!-- ## Existing Cyber Laws of Bangladesh -->
 <!--# **Existing Cyber Laws of Bangladesh**-->
 <p align="justify">
 
 ### **ICT Act, 2006**  
-- This was Bangladesh’s first law to deal with cybercrime like hacking, spreading false information, and online fraud.  
 
-- One part called Section 57 was often misused by authorities to arrest people for sharing opinions or criticizing others online, even if they didn’t do anything wrong.  
-
-- Because of these problems, the law became less popular and was replaced by newer laws.  
+<p align="justify">
+This was the first law in Bangladesh focused on cybercrimes like hacking, spreading false information, and online fraud. However, Section 57 of this law was often misused to arrest people for expressing their opinions online. Due to heavy criticism, this law was largely replaced by newer ones.
+ </p>
 
 ---
 
-### **Digital Security Act, 2018**  
-- This law replaced many parts of the ICT Act and focused on fighting fake news, cyber terrorism, online harassment, and other digital crimes.  
+### **Digital Security Act, 2018** 
 
-- However, many people criticized this law because it sometimes stopped people from speaking freely online.  
-
-- Due to these issues, the government repealed (cancelled) this law in 2023 and introduced a new one.  
+<p align="justify">
+This law replaced many parts of the ICT Act. It aimed to tackle fake news, cyber terrorism, and online harassment. However, it was criticized for limiting freedom of speech. Because of its misuse, the government repealed this law in 2023.
+</p>
 
 ---
 
 ### **Cyber Security Act, 2023**  
-- This is the law that replaced the Digital Security Act. It tries to make punishments less harsh and be more balanced.  
 
-- But it still has vague terms, meaning some parts are not very clear.  
-
-- Also, it does not have strong rules to protect people’s personal information online.  
-
+<p align="justify">
+This act replaced the Digital Security Act. It tried to reduce punishments and be more balanced. However, many terms in the law are vague, and it still does not strongly protect personal data.  
+</p>
 ---
 
 ### **Cyber Security Ordinance, 2025 (Latest)**  
-- This newest law says that access to the internet is a basic right for every citizen.  
 
-- It bans certain activities like online gambling and crimes involving artificial intelligence (AI).  
-
-- The law removes some unfair or misused sections from older laws to protect people better.  
-
-- However, it still does not have strong protection for personal data, which is a big concern.  
+<p align="justify">
+This is the most recent law. It recognizes access to the internet as a basic right and bans activities like online gambling and AI-related cybercrimes. It also removes some misused parts of older laws. However, it still lacks strong data protection policies.
+</p>
 
 ---
 
 ### **Data Protection Laws (Under Development)**  
-- Bangladesh knows it needs better laws to protect personal data online.  
 
-- Right now, new data protection laws are being drafted but are not yet official.  
-
+<p align="justify">
+Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
+</p>
 ---
 
 ### **Other Important Laws Related to Cybersecurity**  
-- **Telecommunications Act, 2001:** Controls phone and internet companies to make sure they follow rules.  
-- **Electronic Transaction Act, 2006:** Covers things like electronic signatures and safe online transactions.  
+- **Telecommunications Act, 2001:** Regulates phone and internet service providers to ensure compliance with national standards. 
+- **Electronic Transaction Act, 2006:** Covers the use of electronic signatures and ensures the legality of online transactions.  
 
 - Various government rules also support cybersecurity and safe use of technology.
 
