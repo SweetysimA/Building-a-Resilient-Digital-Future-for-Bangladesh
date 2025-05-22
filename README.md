@@ -115,6 +115,14 @@ As of 2025, the **World Happiness Report** ranks the following countries as the 
  **Sweden** – Score: **7.345** <br>
  **Netherlands** – Score: **7.306** <br>
 
+ | Rank | Country      | Happiness Score |
+|------|--------------|-----------------|
+| 1    | Finland      | 7.736           |
+| 2    | Denmark      | 7.521           |
+| 3    | Iceland      | 7.515           |
+| 4    | Sweden       | 7.345           |
+| 5    | Netherlands  | 7.306           |
+
 These rankings are based on the following key factors:
 -  Social support
 -  Healthy life expectancy
