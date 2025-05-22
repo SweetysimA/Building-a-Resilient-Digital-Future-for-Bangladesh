@@ -130,7 +130,7 @@ This document summarizes the top 5 happiest and most developed countries in 2025
 
 ---
 
-## 🇩🇰 2. Denmark
+## 2. Denmark
 
 ### Cyber Law Highlights:
 - **NIS 2 Directive:** EU regulation boosting cybersecurity for essential services (healthcare, energy, etc.).
@@ -143,7 +143,7 @@ This document summarizes the top 5 happiest and most developed countries in 2025
 
 ---
 
-## 🇮🇸 3. Iceland
+## 3. Iceland
 
 ### Cyber Law Highlights:
 - **GDPR-Compliant:** As a member of the European Economic Area (EEA).
@@ -166,7 +166,7 @@ This document summarizes the top 5 happiest and most developed countries in 2025
 
 ---
 
-##  5. Netherlands
+## 5. Netherlands
 
 ###  Cyber Law Highlights:
 - **New 2025 Law:** Criminalizes digital espionage and foreign influence targeting ethnic communities.
