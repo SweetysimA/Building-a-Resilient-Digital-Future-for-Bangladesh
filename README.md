@@ -68,7 +68,7 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 - **Telecommunications Act, 2001:** Controls phone and internet companies to make sure they follow rules.  
 - **Electronic Transaction Act, 2006:** Covers things like electronic signatures and safe online transactions.  
 
-Various government rules also support cybersecurity and safe use of technology.
+- Various government rules also support cybersecurity and safe use of technology.
 
 
 
