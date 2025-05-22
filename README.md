@@ -33,7 +33,6 @@ This was the first law in Bangladesh focused on cybercrimes like hacking, spread
 <p align="justify">
 This law replaced many parts of the ICT Act. It aimed to tackle fake news, cyber terrorism, and online harassment. However, it was criticized for limiting freedom of speech. Because of its misuse, the government repealed this law in 2023.
 </p>
-
 ---
 
 ### **Cyber Security Act, 2023**  
