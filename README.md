@@ -14,6 +14,7 @@ Although Bangladesh has taken steps through laws like the <strong>Digital Securi
 This report reviews the current state of cyber legislation in Bangladesh and explores the cyber governance models of the world’s five happiest countries—<strong>Finland</strong>, <strong>Denmark</strong>, <strong>Iceland</strong>, <strong>Sweden</strong>, and <strong>the Netherlands</strong>. These countries not only rank high in happiness but also excel in digital governance and cybersecurity.By learning from their best practices, Bangladesh can strengthen its digital infrastructure, promote responsible online behavior, and move closer to becoming a safer, more inclusive, and happier digital nation.
 </p>
 
+---
 
 ## EXISTING CYBER LAWS OF BANGLADESH
 <!-- ## Existing Cyber Laws of Bangladesh -->
@@ -26,7 +27,6 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 This was the first law in Bangladesh focused on cybercrimes like hacking, spreading false information, and online fraud. However, Section 57 of this law was often misused to arrest people for expressing their opinions online. Due to heavy criticism, this law was largely replaced by newer ones.
  </p>
 
----
 
 ### **Digital Security Act, 2018** 
 
@@ -34,7 +34,6 @@ This was the first law in Bangladesh focused on cybercrimes like hacking, spread
 This law replaced many parts of the ICT Act. It aimed to tackle fake news, cyber terrorism, and online harassment. However, it was criticized for limiting freedom of speech. Because of its misuse, the government repealed this law in 2023.
 </p>
 
----
 
 ### **Cyber Security Act, 2023**  
 
@@ -42,7 +41,6 @@ This law replaced many parts of the ICT Act. It aimed to tackle fake news, cyber
 This act replaced the Digital Security Act. It tried to reduce punishments and be more balanced. However, many terms in the law are vague, and it still does not strongly protect personal data.  
 </p>
 
----
 
 ### **Cyber Security Ordinance, 2025 (Latest)**  
 
@@ -50,7 +48,6 @@ This act replaced the Digital Security Act. It tried to reduce punishments and b
 This is the most recent law. It recognizes access to the internet as a basic right and bans activities like online gambling and AI-related cybercrimes. It also removes some misused parts of older laws. However, it still lacks strong data protection policies.
 </p>
 
----
 
 ### **Data Protection Laws (Under Development)**  
 
@@ -58,7 +55,6 @@ This is the most recent law. It recognizes access to the internet as a basic rig
 Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
 </p>
 
----
 
 ### **Other Important Laws Related to Cybersecurity**  
 - **Telecommunications Act, 2001:** Regulates phone and internet service providers to ensure compliance with national standards. 
@@ -67,4 +63,5 @@ Bangladesh is currently working on new data protection laws to ensure people’s
 - Various government rules also support cybersecurity and safe use of technology.
 
 
+---
 
