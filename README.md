@@ -21,6 +21,9 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 <!-- ## Existing Cyber Laws of Bangladesh -->
 <!--# **Existing Cyber Laws of Bangladesh**-->
 <p align="justify">
+Bangladesh’s existing cyber laws include the <strong> ICT Act (2006)</strong>, the <strong>Digital Security Act (2018)</strong>, and the <strong>Cyber Security Act (2023)</strong>, with the most recent update being the <strong>Cyber Security Ordinance (2025)</strong>.
+These laws aim to address issues like cybercrime, online harassment, and digital misinformation.
+</p>
 
 ### **ICT Act, 2006**  
 
