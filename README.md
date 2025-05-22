@@ -28,6 +28,7 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 This was the first law in Bangladesh focused on cybercrimes like hacking, spreading false information, and online fraud. However, Section 57 of this law was often misused to arrest people for expressing their opinions online. Due to heavy criticism, this law was largely replaced by newer ones.
  </p>
 
+
 ---
 
 ### **Digital Security Act, 2018** 
@@ -42,6 +43,9 @@ This law replaced many parts of the ICT Act. It aimed to tackle fake news, cyber
 <p align="justify">
 This act replaced the Digital Security Act. It tried to reduce punishments and be more balanced. However, many terms in the law are vague, and it still does not strongly protect personal data.  
 </p>
+
+
+---
 
 
 ### **Cyber Security Ordinance, 2025 (Latest)**  
