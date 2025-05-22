@@ -18,6 +18,7 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 ## CYBER LAWS OF BANGLADESH
 <!-- ## Existing Cyber Laws of Bangladesh -->
 <!--# **Existing Cyber Laws of Bangladesh**-->
+<p align="justify">
 
 ### **ICT Act, 2006**  
 - This was Bangladesh’s first law to deal with cybercrime like hacking, spreading false information, and online fraud.  
