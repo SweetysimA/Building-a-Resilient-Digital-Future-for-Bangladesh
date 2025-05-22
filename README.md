@@ -53,7 +53,7 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 
 - The law removes some unfair or misused sections from older laws to protect people better.  
 
-However, it still does not have strong protection for personal data, which is a big concern.  
+- However, it still does not have strong protection for personal data, which is a big concern.  
 
 ---
 
