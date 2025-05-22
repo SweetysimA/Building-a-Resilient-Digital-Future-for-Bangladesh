@@ -126,6 +126,14 @@ These rankings are based on the following key factors:<br>
  d. Generosity<br> 
  e. Perceptions of corruption<br> 
 
+ These rankings are based on the following key factors:
+- a. Social support
+- b. Healthy life expectancy
+- c. Freedom to make life choices
+- d. Generosity
+- e. Perceptions of corruption
+
+
 
 ## 1. Finland
 
