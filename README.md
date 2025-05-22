@@ -38,6 +38,9 @@ This law replaced many parts of the ICT Act. It aimed to tackle fake news, cyber
 </p>
 
 
+---
+
+
 ### **Cyber Security Act, 2023**  
 
 <p align="justify">
@@ -55,11 +58,18 @@ This is the most recent law. It recognizes access to the internet as a basic rig
 </p>
 
 
+---
+
+
 ### **Data Protection Laws (Under Development)**  
 
 <p align="justify">
 Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
 </p>
+
+
+
+---
 
 
 ### **Other Important Laws Related to Cybersecurity**  
