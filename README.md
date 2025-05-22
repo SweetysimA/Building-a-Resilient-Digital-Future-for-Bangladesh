@@ -120,11 +120,11 @@ As of 2025, the **World Happiness Report** ranks the following countries as the 
 
 </div>
 These rankings are based on the following key factors:<br> 
- - Social support<br> 
- - Healthy life expectancy<br> 
- - Freedom to make life choices<br> 
- - Generosity<br> 
- - Perceptions of corruption<br> 
+ a. Social support<br> 
+ b. Healthy life expectancy<br> 
+ c. Freedom to make life choices<br> 
+ d. Generosity<br> 
+ e. Perceptions of corruption<br> 
 
 
 ## 1. Finland
