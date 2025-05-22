@@ -26,7 +26,7 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 
 <p align="justify">
 This was the first law in Bangladesh focused on cybercrimes like hacking, spreading false information, and online fraud. However, Section 57 of this law was often misused to arrest people for expressing their opinions online. Due to heavy criticism, this law was largely replaced by newer ones.
- </p>
+</p>
 
 
 ### **Digital Security Act, 2018** 
@@ -52,14 +52,11 @@ This is the most recent law. It recognizes access to the internet as a basic rig
 </p>
 
 
-
 ### **Data Protection Laws (Under Development)**  
 
 <p align="justify">
 Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
 </p>
-
-
 
 
 
