@@ -108,3 +108,81 @@ Bangladesh is in the process of introducing a comprehensive **Data Protection La
 The law is still in draft form and has not yet been enacted. However, it represents a significant step toward ensuring data privacy, building public trust in digital services, and aligning Bangladesh with global data protection standards.
 
 </p>
+
+
+
+---
+
+<!-- ## TOP FIVE HAPPIEST AND DEVELOPED COUNTRIES NAME AND THEIR CYBER LAWS -->
+## Top 5 Happiest & Developed Countries in 2025 — Cyber Law Overview
+
+This document summarizes the top 5 happiest and most developed countries in 2025, along with their key cyber laws and cybersecurity strategies.
+
+---
+
+## 1. Finland
+
+### Cyber Law Highlights:
+- **Data Protection:** Strict privacy laws under the EU's GDPR (General Data Protection Regulation).
+- **Cybercrime:** Laws cover hacking, fraud, and data breaches.
+- **Cybersecurity Agency:** National Cyber Security Centre (NCSC-FI).
+- **Key Focus:** Protecting government networks, public trust, and ensuring digital safety.
+
+---
+
+## 🇩🇰 2. Denmark
+
+### Cyber Law Highlights:
+- **NIS 2 Directive:** EU regulation boosting cybersecurity for essential services (healthcare, energy, etc.).
+- **Cyber Resilience Act (CRA):** Ensures products (like smart devices) are secure before market release.
+- **Strategy Plan:** Cyber and Information Security Strategy 2022–2024
+  - Securing critical infrastructure.
+  - Improving digital skills.
+  - Helping SMEs defend against cyberattacks.
+- **Cyber Agency:** Center for Cyber Security (CFCS).
+
+---
+
+## 🇮🇸 3. Iceland
+
+### Cyber Law Highlights:
+- **GDPR-Compliant:** As a member of the European Economic Area (EEA).
+- **NIS 2 Preparation:** Updating laws to align with EU cybersecurity standards.
+- **Focus Areas:**
+  - Securing telecom and internet services.
+  - Enhancing risk management and response capabilities.
+  - Engaging in international cooperation on cyber threats.
+
+---
+
+## 4. Sweden
+
+### Cyber Law Highlights:
+- **GDPR-Compliant:** Strong data protection measures.
+- **Cybersecurity Act:** Applies to software and digital services (EU-wide law).
+- **Military & Civil Cooperation:** Integrated cybersecurity defense.
+- **Cyber Agency:** Swedish Civil Contingencies Agency (MSB).
+- **Key Focus:** Building digital trust and protecting health and government sectors.
+
+---
+
+##  5. Netherlands
+
+###  Cyber Law Highlights:
+- **New 2025 Law:** Criminalizes digital espionage and foreign influence targeting ethnic communities.
+- **Penalties:** Up to 12 years in prison for leaking confidential information or aiding hostile states.
+- **National Cybersecurity Strategy:**
+  - Protecting businesses and national infrastructure.
+  - Encouraging public-private cybersecurity partnerships.
+  - Promoting cybersecurity education.
+- **Agencies Involved:** NCSC-NL, Dutch police, and intelligence services.
+
+---
+
+### Summary
+
+These countries show a strong commitment to cybersecurity and data privacy. Their laws aim to protect citizens, businesses, and national infrastructure from increasing digital threats.
+
+---
+
+
