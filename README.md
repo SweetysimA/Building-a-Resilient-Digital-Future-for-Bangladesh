@@ -20,11 +20,11 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 <!--# **Existing Cyber Laws of Bangladesh**-->
 
 ## **ICT Act, 2006**  
-This was Bangladesh’s first law to deal with cybercrime like hacking, spreading false information, and online fraud.  
+- This was Bangladesh’s first law to deal with cybercrime like hacking, spreading false information, and online fraud.  
 
-One part called Section 57 was often misused by authorities to arrest people for sharing opinions or criticizing others online, even if they didn’t do anything wrong.  
+- One part called Section 57 was often misused by authorities to arrest people for sharing opinions or criticizing others online, even if they didn’t do anything wrong.  
 
-Because of these problems, the law became less popular and was replaced by newer laws.  
+- Because of these problems, the law became less popular and was replaced by newer laws.  
 
 ---
 
@@ -47,20 +47,20 @@ Also, it does not have strong rules to protect people’s personal information o
 ---
 
 ## **Cyber Security Ordinance, 2025 (Latest)**  
-This newest law says that access to the internet is a basic right for every citizen.  
+- This newest law says that access to the internet is a basic right for every citizen.  
 
-It bans certain activities like online gambling and crimes involving artificial intelligence (AI).  
+- It bans certain activities like online gambling and crimes involving artificial intelligence (AI).  
 
-The law removes some unfair or misused sections from older laws to protect people better.  
+- The law removes some unfair or misused sections from older laws to protect people better.  
 
 However, it still does not have strong protection for personal data, which is a big concern.  
 
 ---
 
 ## **Data Protection Laws (Under Development)**  
-Bangladesh knows it needs better laws to protect personal data online.  
+- Bangladesh knows it needs better laws to protect personal data online.  
 
-Right now, new data protection laws are being drafted but are not yet official.  
+- Right now, new data protection laws are being drafted but are not yet official.  
 
 ---
 
