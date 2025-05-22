@@ -102,7 +102,7 @@ Bangladesh is in the process of introducing a comprehensive **Data Protection La
 - **Regulatory Oversight**  
   A **Data Protection Authority (DPA)** is expected to be formed to monitor compliance, investigate complaints, and enforce penalties for misuse of data.
 
-## Current Status
+### Current Status
 
 The law is still in draft form and has not yet been enacted. However, it represents a significant step toward ensuring data privacy, building public trust in digital services, and aligning Bangladesh with global data protection standards.
 
