@@ -69,6 +69,10 @@ Bangladesh is currently working on new data protection laws to ensure people’s
 
 - Various government rules also support cybersecurity and safe use of technology.
 
+<p align="justify">
+Although these laws cover many cybercrimes, they still fall short in key areas such as protecting personal data, ensuring digital rights, and clearly defining offenses. Most laws lack strong data privacy measures, use vague language open to misuse, and do not adequately regulate emerging technologies like AI. These gaps highlight the need for more balanced, transparent, and forward-looking legal reforms.
+</p>
+
 
 
 ---
