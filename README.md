@@ -7,7 +7,7 @@ As the world becomes more digital, keeping people safe and secure online is vita
 </p>
 
 <p align="justify">
-Although Bangladesh has taken steps through laws like the Digital Security Act, there are still significant gaps in protecting personal data, securing digital systems, and ensuring safe online experiences. To build a safer and more resilient digital future, it is essential to reform and modernize existing cyber laws.
+Although Bangladesh has taken steps through laws like the <strong>Digital Security Act 2018</strong>, there are still significant gaps in protecting personal data, securing digital systems, and ensuring safe online experiences. To build a safer and more resilient digital future, it is essential to reform and modernize existing cyber laws.
 </p>
 
 <p align="justify">
