@@ -83,6 +83,7 @@ Bangladesh is currently working on new data protection laws to ensure people’s
 <!-- ## Data Protection Law (Draft) — Bangladesh (Upcoming) -->
 # Draft Data Protection Law in Bangladesh
 
+<p align="justify">
 Bangladesh is in the process of introducing a comprehensive **Data Protection Law** to safeguard citizens’ personal information in the digital space. The proposed law aims to establish clear rules for how data is collected, used, and shared by organizations and service providers.
 
 ### Key Features of this Draft Law
@@ -106,3 +107,4 @@ Bangladesh is in the process of introducing a comprehensive **Data Protection La
 
 The law is still in draft form and has not yet been enacted. However, it represents a significant step toward ensuring data privacy, building public trust in digital services, and aligning Bangladesh with global data protection standards.
 
+</p>
