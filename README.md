@@ -176,6 +176,9 @@ This document summarizes the top 5 happiest and most developed countries in 2025
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;These countries show a strong commitment to cybersecurity and data privacy. Their laws aim to protect citizens, businesses, and national infrastructure from increasing digital threats.
 </p>
+
+
+
 ---
 
 
