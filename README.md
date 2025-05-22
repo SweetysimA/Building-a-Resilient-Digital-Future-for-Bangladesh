@@ -80,3 +80,29 @@ Bangladesh is currently working on new data protection laws to ensure people’s
 
 ---
 
+<!-- ## Data Protection Law (Draft) — Bangladesh (Upcoming) -->
+# Draft Data Protection Law in Bangladesh
+
+Bangladesh is in the process of introducing a comprehensive **Data Protection Law** to safeguard citizens’ personal information in the digital space. The proposed law aims to establish clear rules for how data is collected, used, and shared by organizations and service providers.
+
+### Key Features of this Draft Law
+
+- **Informed Consent**  
+  Organizations must clearly explain why they are collecting personal data and obtain consent from users before doing so.
+
+- **Data Subject Rights**  
+  Individuals will have the right to access, correct, or delete their personal data. The law also introduces the **“right to be forgotten,”** allowing individuals to request data deletion when it is no longer needed.
+
+- **Data Minimization**  
+  Only essential data should be collected, avoiding unnecessary or excessive information gathering.
+
+- **Cross-Border Restrictions**  
+  The draft law aims to limit the transfer of personal data to foreign servers unless proper protections are in place.
+
+- **Regulatory Oversight**  
+  A **Data Protection Authority (DPA)** is expected to be formed to monitor compliance, investigate complaints, and enforce penalties for misuse of data.
+
+## Current Status
+
+The law is still in draft form and has not yet been enacted. However, it represents a significant step toward ensuring data privacy, building public trust in digital services, and aligning Bangladesh with global data protection standards.
+
