@@ -127,7 +127,6 @@ This document summarizes the top 5 happiest and most developed countries in 2025
 - **Cybersecurity Agency:** National Cyber Security Centre (NCSC-FI).
 - **Key Focus:** Protecting government networks, public trust, and ensuring digital safety.
 
----
 
 ## 2. Denmark
 
@@ -140,7 +139,6 @@ This document summarizes the top 5 happiest and most developed countries in 2025
   - Helping SMEs defend against cyberattacks.
 - **Cyber Agency:** Center for Cyber Security (CFCS).
 
----
 
 ## 3. Iceland
 
@@ -152,7 +150,6 @@ This document summarizes the top 5 happiest and most developed countries in 2025
   - Enhancing risk management and response capabilities.
   - Engaging in international cooperation on cyber threats.
 
----
 
 ## 4. Sweden
 
@@ -163,7 +160,6 @@ This document summarizes the top 5 happiest and most developed countries in 2025
 - **Cyber Agency:** Swedish Civil Contingencies Agency (MSB).
 - **Key Focus:** Building digital trust and protecting health and government sectors.
 
----
 
 ## 5. Netherlands
 
@@ -176,7 +172,6 @@ This document summarizes the top 5 happiest and most developed countries in 2025
   - Promoting cybersecurity education.
 - **Agencies Involved:** NCSC-NL, Dutch police, and intelligence services.
 
----
 
 ### Summary
 
