@@ -55,10 +55,8 @@ This is the most recent law. It recognizes access to the internet as a basic rig
 </p>
 
 
-<!--### **Data Protection Laws (Under Development)**  -->
 
-
-### ** Data Protection Laws  (Under Development)**
+###  **Data Protection Laws (Under Development)**
 
 <p align="justify">
 Bangladesh is in the process of introducing a comprehensive <strong>Data Protection Law </strong> to safeguard citizens’ personal information in the digital space. The proposed law aims to establish clear rules for how data is collected, used, and shared by organizations and service providers.
