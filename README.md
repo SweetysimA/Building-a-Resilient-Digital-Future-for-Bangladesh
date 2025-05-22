@@ -127,11 +127,11 @@ These rankings are based on the following key factors:<br>
  e. Perceptions of corruption<br> 
 
  These rankings are based on the following key factors:
--  Social support
--  Healthy life expectancy
--  Freedom to make life choices
--  Generosity
--  Perceptions of corruption
+     -  Social support
+     -  Healthy life expectancy
+     -  Freedom to make life choices
+     -  Generosity
+     -  Perceptions of corruption
 
 
 
