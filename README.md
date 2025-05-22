@@ -116,7 +116,20 @@ The law is still in draft form and has not yet been enacted. However, it represe
 <!-- ## TOP FIVE HAPPIEST AND DEVELOPED COUNTRIES NAME AND THEIR CYBER LAWS -->
 ## TOP 5 HAPPIEST & DEVELOPED COUNTRIES IN 2025 — CYBER LAW OVERVIEW
 
-This document summarizes the top 5 happiest and most developed countries in 2025, along with their key cyber laws and cybersecurity strategies.
+As of 2025, the **World Happiness Report** ranks the following countries as the top five happiest nations:
+
+ **Finland** – Score: **7.736**
+ **Denmark** – Score: **7.521**
+ **Iceland** – Score: **7.515**
+ **Sweden** – Score: **7.345**
+ **Netherlands** – Score: **7.306**
+
+These rankings are based on the following key factors:
+-  Social support
+-  Healthy life expectancy
+-  Freedom to make life choices
+-  Generosity
+-  Perceptions of corruption
 
 
 ## 1. Finland
