@@ -28,7 +28,7 @@ This report reviews the current state of cyber legislation in Bangladesh and exp
 
 ---
 
-## **Digital Security Act, 2018**  
+### **Digital Security Act, 2018**  
 This law replaced many parts of the ICT Act and focused on fighting fake news, cyber terrorism, online harassment, and other digital crimes.  
 
 However, many people criticized this law because it sometimes stopped people from speaking freely online.  
@@ -37,7 +37,7 @@ Due to these issues, the government repealed (cancelled) this law in 2023 and in
 
 ---
 
-## **Cyber Security Act, 2023**  
+### **Cyber Security Act, 2023**  
 This is the law that replaced the Digital Security Act. It tries to make punishments less harsh and be more balanced.  
 
 But it still has vague terms, meaning some parts are not very clear.  
@@ -46,7 +46,7 @@ Also, it does not have strong rules to protect people’s personal information o
 
 ---
 
-## **Cyber Security Ordinance, 2025 (Latest)**  
+### **Cyber Security Ordinance, 2025 (Latest)**  
 - This newest law says that access to the internet is a basic right for every citizen.  
 
 - It bans certain activities like online gambling and crimes involving artificial intelligence (AI).  
@@ -57,14 +57,14 @@ However, it still does not have strong protection for personal data, which is a 
 
 ---
 
-## **Data Protection Laws (Under Development)**  
+### **Data Protection Laws (Under Development)**  
 - Bangladesh knows it needs better laws to protect personal data online.  
 
 - Right now, new data protection laws are being drafted but are not yet official.  
 
 ---
 
-## **Other Important Laws Related to Cybersecurity**  
+### **Other Important Laws Related to Cybersecurity**  
 - **Telecommunications Act, 2001:** Controls phone and internet companies to make sure they follow rules.  
 - **Electronic Transaction Act, 2006:** Covers things like electronic signatures and safe online transactions.  
 
