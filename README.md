@@ -109,11 +109,7 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 
 As of 2025, the **World Happiness Report** ranks the following countries as the top five happiest nations:
 
- **Finland** – Score: **7.736** <br>
- **Denmark** – Score: **7.521** <br>
- **Iceland** – Score: **7.515** <br>
- **Sweden** – Score: **7.345** <br>
- **Netherlands** – Score: **7.306** <br>
+ <div align="center">
 
  | Rank | Country      | Happiness Score |
 |------|--------------|-----------------|
@@ -123,6 +119,7 @@ As of 2025, the **World Happiness Report** ranks the following countries as the 
 | 4    | Sweden       | 7.345           |
 | 5    | Netherlands  | 7.306           |
 
+</div>
 These rankings are based on the following key factors:
 -  Social support
 -  Healthy life expectancy
