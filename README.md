@@ -119,12 +119,12 @@ As of 2025, the **World Happiness Report** ranks the following countries as the 
 | 5    | Netherlands  | 7.306           |
 
 </div>
-These rankings are based on the following key factors:
- - Social support
- - Healthy life expectancy
- - Freedom to make life choices
- - Generosity
- - Perceptions of corruption
+These rankings are based on the following key factors:<br> 
+ - Social support<br> 
+ - Healthy life expectancy<br> 
+ - Freedom to make life choices<br> 
+ - Generosity<br> 
+ - Perceptions of corruption<br> 
 
 
 ## 1. Finland
