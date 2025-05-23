@@ -1,4 +1,20 @@
+## ASSIGNMENT TITLE
 # Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+
+**Course Title:** Computer Ethics and Cyber Law  
+**Course Code:** CSE 455  
+
+**Submitted by:**  
+**Name:** Sweety Akter Sima 
+**ID:** 2002008  
+**Date:** 23 May 2025    
+
+**Submitted to:**  
+Pankaj Bhowmik  
+Lecturer  
+Department of Computer Science and Engineering  
+
+---
 
 ## INTRODUCTION
 
