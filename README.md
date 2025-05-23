@@ -252,25 +252,7 @@ These rankings are based on the following key factors:
 ---
 
 
-## REFORMING BANGLADESH’S CYBER LAWS FOR A RESILIENT DIGITAL FUTURE
-<p align="justify">
-To build a safer and smarter digital future, Bangladesh must strengthen its cyber laws. The table below outlines the major cyber laws, identifies key problems, and suggests reforms to ensure better privacy, accountability, and innovation in the digital space.
-</p>
-
-
-| Cyber Law                       | Key Problems                                                                 | Suggested Reforms                                                                 |
-|--------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| ICT Act, 2006                  | Misuse of Section 57, outdated content                                       | Repeal outdated sections, ensure online freedom                                 |
-| Digital Security Act, 2018     | Limited freedom of speech, misuse                                           | Learn from flaws, draft rights-based laws                                       |
-| Cyber Security Act, 2023       | Vague terms, weak privacy protection                                        | Clarify definitions, add data protection and consent rules                      |
-| Cyber Security Ordinance, 2025 | No AI regulation, weak on data protection                                   | Add AI rules, strengthen privacy laws                                           |
-| Data Protection Law (Draft)    | Not active yet, no enforcement authority                                    | Approve law, create Data Protection Authority                                   |
-| Telecommunications Act, 2001   | Outdated, doesn’t cover apps/platforms                                      | Update for internet governance, net neutrality                                 |
-| Electronic Transaction Act, 2006| Lacks modern e-commerce and fintech coverage                               | Support secure digital payments and contracts                                   |
-
----
-#
-# WHAT BANGLADESH CAN LEARN — INSPIRED BY LEADING COUNTRIES
+# WHAT BANGLADESH CAN LEARN — INSPIRED BY THESE COUNTRIES
 
 | **Focus Area**                    | **Inspired By**                                                                                                                      | **What Bangladesh Can Learn**                                                                                                  |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -344,6 +326,26 @@ To build a safer and more resilient digital Bangladesh, several legal reforms ar
 Bangladesh has made progress with laws like the **Cyber Security Act (2023)** and the **Cyber Security Ordinance (2025)**. However, to build a **secure and progressive digital nation**, more inclusive, modern, and rights-based reforms are required. These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
 
 </p>
+
+
+---
+
+## REFORMING BANGLADESH’S CYBER LAWS FOR A RESILIENT DIGITAL FUTURE
+<p align="justify">
+To build a safer and smarter digital future, Bangladesh must strengthen its cyber laws. The table below outlines the major cyber laws, identifies key problems, and suggests reforms to ensure better privacy, accountability, and innovation in the digital space.
+</p>
+
+
+| Cyber Law                       | Key Problems                                                                 | Suggested Reforms                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ICT Act, 2006                  | Misuse of Section 57, outdated content                                       | Repeal outdated sections, ensure online freedom                                 |
+| Digital Security Act, 2018     | Limited freedom of speech, misuse                                           | Learn from flaws, draft rights-based laws                                       |
+| Cyber Security Act, 2023       | Vague terms, weak privacy protection                                        | Clarify definitions, add data protection and consent rules                      |
+| Cyber Security Ordinance, 2025 | No AI regulation, weak on data protection                                   | Add AI rules, strengthen privacy laws                                           |
+| Data Protection Law (Draft)    | Not active yet, no enforcement authority                                    | Approve law, create Data Protection Authority                                   |
+| Telecommunications Act, 2001   | Outdated, doesn’t cover apps/platforms                                      | Update for internet governance, net neutrality                                 |
+| Electronic Transaction Act, 2006| Lacks modern e-commerce and fintech coverage                               | Support secure digital payments and contracts                                   |
+
 ---
 
 
