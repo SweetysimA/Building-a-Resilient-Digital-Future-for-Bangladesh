@@ -351,7 +351,7 @@ To build a safer and smarter digital future, Bangladesh must strengthen its cybe
 
 # CONCLUSION
 <p align="justify">
-To build a resilient digital future, Bangladesh must update its cyber laws and institutions. Learning from the happiest and most digitally advanced countries, Bangladesh can introduce a strong data protection law and a centralized cybersecurity agency. These steps will enhance national security, promote digital trust, and contribute to a safer and happier society in the digital age.
+To ensure a safe and strong digital future, Bangladesh needs to update its cyber laws and improve how it manages digital challenges. By learning from the world’s leading countries, Bangladesh should enact strong laws to protect personal data, establish a central agency for cybersecurity, create rules for the ethical use of artificial intelligence, pass laws to prevent online bullying, regulate online gambling to reduce social risks, and develop new laws to address emerging issues such as fake news, digital identity protection, and the responsible use of biometric data. These changes will help keep the country safe, protect individual privacy, build trust online, support innovation, and ensure that everyone benefits from the digital world.
 </p>
 
 
