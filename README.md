@@ -102,7 +102,7 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 
 
 ---
-## PROBLEMS WITH CURRENT CYBER LAWS IN BANGLADESH (2025)
+## Problems with Current Cyber Laws in Bangladesh (2025)
 
 
 ### 1. Vague Language and Definitions
