@@ -163,7 +163,11 @@ Although the existing current laws cover many cybercrimes, they still fall short
 
 ---
 
-## Table
+## REFORMING BANGLADESH’S CYBER LAWS FOR A RESILIENT DIGITAL FUTURE
+<p align="justify">
+To build a safer and smarter digital future, Bangladesh must strengthen its cyber laws. The table below outlines the major cyber laws, identifies key problems, and suggests reforms to ensure better privacy, accountability, and innovation in the digital space.
+</p>
+
 
 | Cyber Law                       | Key Problems                                                                 | Suggested Reforms                                                                 |
 |--------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
@@ -174,6 +178,8 @@ Although the existing current laws cover many cybercrimes, they still fall short
 | Data Protection Law (Draft)    | Not active yet, no enforcement authority                                    | Approve law, create Data Protection Authority                                   |
 | Telecommunications Act, 2001   | Outdated, doesn’t cover apps/platforms                                      | Update for internet governance, net neutrality                                 |
 | Electronic Transaction Act, 2006| Lacks modern e-commerce and fintech coverage                               | Support secure digital payments and contracts                                   |
+
+---
 
 
 <!-- ## TOP FIVE HAPPIEST AND DEVELOPED COUNTRIES NAME AND THEIR CYBER LAWS -->
