@@ -373,39 +373,39 @@ These reforms will not only protect citizens’ privacy and digital rights but a
 
 ## References
 
-Bangladesh Parliament. (2018). Digital Security Act, 2018. Retrieved from http://bdlaws.minlaw.gov.bd/act-1261.html
+1. Bangladesh Parliament. (2018). Digital Security Act, 2018. Retrieved from http://bdlaws.minlaw.gov.bd/act-1261.html
 
-Bangladesh Parliament. (2023). Cyber Security Act, 2023. Retrieved from https://bdlaws.minlaw.gov.bd/act-1380.html
+2. Bangladesh Parliament. (2023). Cyber Security Act, 2023. Retrieved from https://bdlaws.minlaw.gov.bd/act-1380.html
 
-Bangladesh Parliament. (2025). Cyber Security Ordinance, 2025. Retrieved from https://bdlaws.minlaw.gov.bd
+3. Bangladesh Parliament. (2025). Cyber Security Ordinance, 2025. Retrieved from https://bdlaws.minlaw.gov.bd
 
-Bangladesh Telecommunication Regulatory Commission (BTRC). (2001). Telecommunications Act, 2001. Retrieved from http://www.btrc.gov.bd
+4. Bangladesh Telecommunication Regulatory Commission (BTRC). (2001). Telecommunications Act, 2001. Retrieved from http://www.btrc.gov.bd
 
-Government of Bangladesh. (2006). Electronic Transaction Act, 2006. Ministry of Law, Justice and Parliamentary Affairs.
+5. Government of Bangladesh. (2006). Electronic Transaction Act, 2006. Ministry of Law, Justice and Parliamentary Affairs.
 
-Danish Center for Cyber Security (CFCS). (2022). Cyber and information security strategy 2022–2024. Retrieved from https://www.cfcs.dk/en/about-us/danish-cyber-and-information-security-strategy/
+6. Danish Center for Cyber Security (CFCS). (2022). Cyber and information security strategy 2022–2024. Retrieved from https://www.cfcs.dk/en/about-us/danish-cyber-and-information-security-strategy/
 
-European Commission. (2023). Cyber resilience act. Retrieved from https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
+7. European Commission. (2023). Cyber resilience act. Retrieved from https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act
 
-European Union. (2016). General Data Protection Regulation (GDPR). Retrieved from https://eur-lex.europa.eu/eli/reg/2016/679/oj
+8. European Union. (2016). General Data Protection Regulation (GDPR). Retrieved from https://eur-lex.europa.eu/eli/reg/2016/679/oj
 
-European Union Agency for Cybersecurity (ENISA). (2023). NIS2 directive overview. Retrieved from https://www.enisa.europa.eu/topics/nis-directive
+9. European Union Agency for Cybersecurity (ENISA). (2023). NIS2 directive overview. Retrieved from https://www.enisa.europa.eu/topics/nis-directive
 
-Finnish Transport and Communications Agency. (2024). National Cyber Security Centre Finland. Retrieved from https://www.kyberturvallisuuskeskus.fi/en
+10. Finnish Transport and Communications Agency. (2024). National Cyber Security Centre Finland. Retrieved from https://www.kyberturvallisuuskeskus.fi/en
 
-Icelandic Ministry of Justice. (2024). Cybersecurity law updates. Retrieved from https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/iceland/topics/key-data-and-cybersecurity-laws
+11. Icelandic Ministry of Justice. (2024). Cybersecurity law updates. Retrieved from https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/iceland/topics/key-data-and-cybersecurity-laws
 
-Icelandic National Cyber Security Centre. (2024). Cybersecurity measures and policies. Retrieved from https://www.stjr.is
+12. Icelandic National Cyber Security Centre. (2024). Cybersecurity measures and policies. Retrieved from https://www.stjr.is
 
-Netherlands Ministry of Justice and Security. (2025). National cybersecurity strategy. Retrieved from https://www.rijksoverheid.nl
+13. Netherlands Ministry of Justice and Security. (2025). National cybersecurity strategy. Retrieved from https://www.rijksoverheid.nl
 
-Netherlands National Cyber Security Centre (NCSC-NL). (2025). National cybersecurity strategy. Retrieved from https://english.ncsc.nl/
+14. Netherlands National Cyber Security Centre (NCSC-NL). (2025). National cybersecurity strategy. Retrieved from https://english.ncsc.nl/
 
-Swedish Civil Contingencies Agency (MSB). (2023). MSB research agenda 2024–2028: Research for a safer society. Retrieved from https://www.msb.se/siteassets/dokument/publikationer/english-publications/msb2228_research-agenda-20242028.pdf
+15. Swedish Civil Contingencies Agency (MSB). (2023). MSB research agenda 2024–2028: Research for a safer society. Retrieved from https://www.msb.se/siteassets/dokument/publikationer/english-publications/msb2228_research-agenda-20242028.pdf
 
-Swedish Civil Contingencies Agency (MSB). (2024). Cybersecurity framework. Retrieved from https://www.msb.se/en/
+16. Swedish Civil Contingencies Agency (MSB). (2024). Cybersecurity framework. Retrieved from https://www.msb.se/en/
 
-World Happiness Report. (2025). World happiness report 2025. Retrieved from https://worldhappiness.report/
+17. World Happiness Report. (2025). World happiness report 2025. Retrieved from https://worldhappiness.report/
 
 
 
