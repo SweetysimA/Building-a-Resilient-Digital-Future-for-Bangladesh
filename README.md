@@ -85,14 +85,14 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 
 
 
-
 ### **Other Important Laws Related to Cybersecurity**  
 - **Telecommunications Act, 2001:** Regulates phone and internet service providers to ensure compliance with national standards. 
 - **Electronic Transaction Act, 2006:** Covers the use of electronic signatures and ensures the legality of online transactions.  
 
 - Various government rules also support cybersecurity and safe use of technology.
 
-<br>
+
+
 ---
 
 
