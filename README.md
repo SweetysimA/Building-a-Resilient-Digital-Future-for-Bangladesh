@@ -298,7 +298,7 @@ To build a safer and smarter digital future, Bangladesh must strengthen its cybe
 
 <p align="justify">
 To build a safer and more resilient digital Bangladesh, several legal reforms are needed to address current gaps in cybersecurity, data protection, AI regulation, online abuse, and digital rights. These proposed reforms are based on lessons from advanced countries such as Finland, Denmark, Iceland, Sweden, and the Netherlands.
-
+</p>
 
 ## 1. Enact a Comprehensive Data Protection Law
 
@@ -350,8 +350,8 @@ To build a safer and more resilient digital Bangladesh, several legal reforms ar
 - Integrate **cybersecurity education** into schools and colleges.
 - Provide free tools and training to help people stay secure online.
 
+<p align="justify">
 Bangladesh has made progress with laws like the **Cyber Security Act (2023)** and the **Cyber Security Ordinance (2025)**. However, to build a **secure and progressive digital nation**, more inclusive, modern, and rights-based reforms are required. These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
-
 </p>
 
 
