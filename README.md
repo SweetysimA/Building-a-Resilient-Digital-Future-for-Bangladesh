@@ -377,8 +377,8 @@ These reforms will not only protect citizens’ privacy and digital rights but a
 - Bangladesh Parliament. (2025). *Cyber Security Ordinance, 2025*. Retrieved from https://bdlaws.minlaw.gov.bd
 - European Union. (2016). *General Data Protection Regulation (GDPR)*. Retrieved from https://eur-lex.europa.eu/eli/reg/2016/679/oj
 - Finnish Transport and Communications Agency. (2024). *National Cyber Security Centre Finland*. Retrieved from https://www.kyberturvallisuuskeskus.fi
-- Danish Center for Cyber Security (CFCS). (2022). *Cyber and Information Security Strategy 2022–2024*. Retrieved from https://cfcs.dk
-- Icelandic Ministry of Justice. (2024). *Cybersecurity Law Updates*. Retrieved from https://www.stjornarradid.is
+- Danish Center for Cyber Security (CFCS). (2022). *Cyber and Information Security Strategy 2022–2024*. Retrieved from https://www.cfcs.dk/en/about-us/danish-cyber-and-information-security-strategy/
+- Icelandic Ministry of Justice. (2024). *Cybersecurity Law Updates*. Retrieved from https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/iceland/topics/key-data-and-cybersecurity-laws
 - Swedish Civil Contingencies Agency (MSB). (2024). *Cybersecurity Framework*. Retrieved from https://www.msb.se
 - Netherlands Ministry of Justice and Security. (2025). *National Cybersecurity Strategy*. Retrieved from https://www.rijksoverheid.nl
 
