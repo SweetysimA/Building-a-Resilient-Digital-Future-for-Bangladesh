@@ -128,6 +128,8 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 - Victims of cybercrimes get little help — emotionally, legally, or technically.
 - There’s no fast, safe system to support them.
 
+<br>
+
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;Although the existing current laws cover many cybercrimes, they still fall short in key areas such as protecting personal data, ensuring digital rights, and clearly defining offenses. Most laws lack strong data privacy measures, use vague language open to misuse, and do not adequately regulate emerging technologies like AI. These gaps highlight the need for more balanced, transparent, and forward-looking legal reforms.
 </p>
