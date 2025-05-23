@@ -268,6 +268,10 @@ These rankings are based on the following key factors:
 
 <br>
 
+
+---
+
+
 # REFORMING BANGLADESH’S CYBER LAWS FOR A RESILIENT DIGITAL FUTURE
 <p align="justify">
 To build a safer and smarter digital future, Bangladesh must strengthen its cyber laws. The table below outlines the major cyber laws, identifies key problems, and suggests reforms to ensure better privacy, accountability, and innovation in the digital space.
