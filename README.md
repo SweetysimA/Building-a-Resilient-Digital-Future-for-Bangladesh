@@ -254,6 +254,10 @@ These rankings are based on the following key factors:
 
 # WHAT BANGLADESH CAN LEARN — INSPIRED BY THESE COUNTRIES
 
+<p align="justify">
+To strengthen its digital landscape, Bangladesh can learn valuable lessons from countries that are leaders in cyber laws and technology governance. The following table highlights key focus areas and practical steps inspired by these nations, which Bangladesh can adopt to build a safer, fairer, and more innovative digital future.
+</p>
+
 | **Focus Area**                    | **Inspired By**                                                                                                                      | **What Bangladesh Can Learn**                                                                                                  |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Gambling Laws**                | Netherlands (2025 Law):<br>• Bans unauthorized online gambling<br>• Licensing system<br>• Harsh penalties                                           | • Ban illegal gambling platforms<br>• Establish a license-based system<br>• Penalize operators and protect vulnerable users   |
