@@ -93,12 +93,14 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 - Various government rules also support cybersecurity and safe use of technology.
 
 <br>
-
 ---
 
 
 ## Problems with Current Cyber Laws in Bangladesh (2025)
 
+<p align="justify">
+Although the existing current laws cover many cybercrimes, they still fall short in key areas such as protecting personal data, ensuring digital rights, and clearly defining offenses. Most laws lack strong data privacy measures, use vague language open to misuse, and do not adequately regulate emerging technologies like AI.
+</p>
 
 ### 1. Vague Language and Definitions
 - Terms like **“offensive content”** and **“fake news”** are not clearly defined.
@@ -131,12 +133,10 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 <br>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Although the existing current laws cover many cybercrimes, they still fall short in key areas such as protecting personal data, ensuring digital rights, and clearly defining offenses. Most laws lack strong data privacy measures, use vague language open to misuse, and do not adequately regulate emerging technologies like AI. These gaps highlight the need for more balanced, transparent, and forward-looking legal reforms.
+&nbsp;&nbsp;&nbsp;&nbsp;These gaps reveal the urgent need for clearer, fairer, and modernized cyber laws that effectively protect individuals’ privacy rights while adapting to the rapid pace of technological advancements.
 </p>
 
 
-
----
 ---
 
 <!-- ## TOP FIVE HAPPIEST AND DEVELOPED COUNTRIES NAME AND THEIR CYBER LAWS -->
