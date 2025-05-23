@@ -369,18 +369,44 @@ These reforms will not only protect citizens’ privacy and digital rights but a
 
 ---
 
-# References
 
 
-- Bangladesh Parliament. (2018). *Digital Security Act, 2018*. Retrieved from http://bdlaws.minlaw.gov.bd/
-- Bangladesh Parliament. (2023). *Cyber Security Act, 2023*. Retrieved from https://bdlaws.minlaw.gov.bd
-- Bangladesh Parliament. (2025). *Cyber Security Ordinance, 2025*. Retrieved from https://bdlaws.minlaw.gov.bd
-- European Union. (2016). *General Data Protection Regulation (GDPR)*. Retrieved from https://eur-lex.europa.eu/eli/reg/2016/679/oj
-- Finnish Transport and Communications Agency. (2024). *National Cyber Security Centre Finland*. Retrieved from https://www.kyberturvallisuuskeskus.fi
-- Danish Center for Cyber Security (CFCS). (2022). *Cyber and Information Security Strategy 2022–2024*. Retrieved from https://www.cfcs.dk/en/about-us/danish-cyber-and-information-security-strategy/
-- Icelandic Ministry of Justice. (2024). *Cybersecurity Law Updates*. Retrieved from https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/iceland/topics/key-data-and-cybersecurity-laws
-- Swedish Civil Contingencies Agency (MSB). (2024). *Cybersecurity Framework*. Retrieved from https://www.msb.se
-- Netherlands Ministry of Justice and Security. (2025). *National Cybersecurity Strategy*. Retrieved from https://www.rijksoverheid.nl
+## References
+
+1. **Bangladesh Parliament.** (2018). *Digital Security Act, 2018*. Retrieved from [http://bdlaws.minlaw.gov.bd/act-1261.html](http://bdlaws.minlaw.gov.bd/act-1261.html)
+
+2. **Bangladesh Parliament.** (2023). *Cyber Security Act, 2023*. Retrieved from [https://bdlaws.minlaw.gov.bd/act-1380.html](https://bdlaws.minlaw.gov.bd/act-1380.html)
+
+3. **Bangladesh Parliament.** (2025). *Cyber Security Ordinance, 2025*. Retrieved from [https://bdlaws.minlaw.gov.bd](https://bdlaws.minlaw.gov.bd)
+
+4. **Bangladesh Telecommunication Regulatory Commission (BTRC).** (2001). *Telecommunications Act, 2001*. Retrieved from [http://www.btrc.gov.bd](http://www.btrc.gov.bd)
+
+5. **Government of Bangladesh.** (2006). *Electronic Transaction Act, 2006*. Ministry of Law, Justice and Parliamentary Affairs.
+
+6. **Danish Center for Cyber Security (CFCS).** (2022). *Cyber and Information Security Strategy 2022–2024*. Retrieved from [https://www.cfcs.dk/en/about-us/danish-cyber-and-information-security-strategy](https://www.cfcs.dk/en/about-us/danish-cyber-and-information-security-strategy/)
+
+7. **European Commission.** (2023). *Cyber Resilience Act*. Retrieved from [https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)
+
+8. **European Union.** (2016). *General Data Protection Regulation (GDPR)*. Retrieved from [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
+
+9. **European Union Agency for Cybersecurity (ENISA).** (2023). *NIS2 Directive Overview*. Retrieved from [https://www.enisa.europa.eu/topics/nis-directive](https://www.enisa.europa.eu/topics/nis-directive)
+
+10. **Finnish Transport and Communications Agency.** (2024). *National Cyber Security Centre Finland*. Retrieved from [https://www.kyberturvallisuuskeskus.fi/en](https://www.kyberturvallisuuskeskus.fi/en)
+
+11. **Icelandic Ministry of Justice.** (2024). *Cybersecurity Law Updates*. Retrieved from [https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/iceland/topics/key-data-and-cybersecurity-laws](https://resourcehub.bakermckenzie.com/en/resources/global-data-and-cyber-handbook/emea/iceland/topics/key-data-and-cybersecurity-laws)
+
+12. **Icelandic National Cyber Security Centre.** (2024). *Cybersecurity Measures and Policies*. Retrieved from [https://www.stjr.is](https://www.stjr.is)
+
+13. **Netherlands Ministry of Justice and Security.** (2025). *National Cybersecurity Strategy*. Retrieved from [https://www.rijksoverheid.nl](https://www.rijksoverheid.nl)
+
+14. **Netherlands National Cyber Security Centre (NCSC-NL).** (2025). *National Cybersecurity Strategy*. Retrieved from [https://english.ncsc.nl/](https://english.ncsc.nl/)
+
+15. **Swedish Civil Contingencies Agency (MSB).** (2023). *MSB Research Agenda 2024–2028: Research for a Safer Society*. Retrieved from [https://www.msb.se/siteassets/dokument/publikationer/english-publications/msb2228_research-agenda-20242028.pdf](https://www.msb.se/siteassets/dokument/publikationer/english-publications/msb2228_research-agenda-20242028.pdf)
+
+16. **Swedish Civil Contingencies Agency (MSB).** (2024). *Cybersecurity Framework*. Retrieved from [https://www.msb.se/en/](https://www.msb.se/en/)
+
+17. **World Happiness Report.** (2025). *World Happiness Report 2025*. Retrieved from [https://worldhappiness.report/](https://worldhappiness.report/)
+
 
 
 
