@@ -73,7 +73,7 @@ This act replaced the Digital Security Act. It tried to reduce punishments and b
 ### **Cyber Security Ordinance, 2025 (Latest)**  
 
 <p align="justify">
-This is the most recent law. It recognizes access to the internet as a basic right and bans activities like online gambling and AI-related cybercrimes. It also removes some misused parts of older laws. However, it still lacks strong data protection policies.
+This is the most recent law in Bangladesh that replaces older cyber laws to better protect people online. It recognizes internet access as a basic right and punishes online abuse, cyberbullying, and AI-based crimes. The law bans online gambling and reduces jail time for speech-related offenses. Harmful content can now be removed faster with court approval.
 </p>
 
 
