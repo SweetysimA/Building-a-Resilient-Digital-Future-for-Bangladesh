@@ -269,6 +269,21 @@ To build a safer and smarter digital future, Bangladesh must strengthen its cybe
 | Electronic Transaction Act, 2006| Lacks modern e-commerce and fintech coverage                               | Support secure digital payments and contracts                                   |
 
 ---
+#
+# WHAT BANGLADESH CAN LEARN — INSPIRED BY LEADING COUNTRIES
+
+| **Focus Area**                    | **Inspired By (Country Examples)**                                                                                                                      | **What Bangladesh Can Learn**                                                                                                  |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Gambling Laws**                | 🇳🇱 Netherlands (2025 Law):<br>• Bans unauthorized online gambling<br>• Licensing system<br>• Harsh penalties                                           | • Ban illegal gambling platforms<br>• Establish a license-based system<br>• Penalize operators and protect vulnerable users   |
+| **Cyberbullying**                | 🇫🇮 Finland, 🇸🇪 Sweden:<br>• Defined laws<br>• Mandatory institutional action<br>• Quick legal support                                                  | • Define cyberbullying legally<br>• Victim protection units<br>• Public awareness & school training                           |
+| **AI Regulation**                | 🇩🇰 Denmark, 🇳🇱 Netherlands, 🇪🇺 EU:<br>• Cybersecurity standards<br>• Ban on AI misuse<br>• Mandatory transparency                                     | • Develop national AI law<br>• Ban harmful AI use<br>• Ensure ethical AI development                                           |
+| **Data Protection**              | 🇫🇮 Finland, 🇸🇪 Sweden, 🇳🇱 Netherlands (GDPR):<br>• Citizens’ control over data<br>• Data transfer restrictions                                       | • Enact a Data Protection Law<br>• Set up a Data Protection Authority (DPA)<br>• Introduce rights like data access & erasure  |
+| **Freedom of Expression Online** | 🇸🇪 Sweden, 🇮🇸 Iceland:<br>• Strong digital rights protection<br>• Laws protect journalists and activists                                               | • Remove vague legal terms<br>• Protect online criticism & free speech<br>• Prevent misuse of cyber laws                      |
+| **Digital Literacy**             | 🇫🇮 Finland:<br>• National digital education programs<br>• Cyber hygiene training<br>• AI awareness in schools                                          | • Add cybersecurity to school curricula<br>• National awareness campaigns<br>• Free training for public                       |
+| **Cybercrime Enforcement**       | 🇳🇱 Netherlands, 🇸🇪 Sweden:<br>• Specialized cybercrime units<br>• Fast-track courts for digital cases                                                  | • Form cybercrime courts<br>• Train police/judges in digital law<br>• Speed up legal proceedings                              |
+| **Critical Infrastructure Security** | 🇩🇰 Denmark (NIS2 Directive), 🇸🇪 Sweden:<br>• Securing health, energy, and telecom sectors<br>• National cybersecurity strategies                    | • Draft a national cybersecurity strategy<br>• Protect hospitals, banks, and utilities from cyber threats                     |
+| **Digital Consumer Protection**  | 🇳🇱 Netherlands, 🇪🇺 EU:<br>• Cyber resilience requirements for devices and software<br>• Product safety before market release                          | • Regulate smart devices<br>• Ensure security in digital products<br>• Require security standards before public use           |
+
 
 # STRENGTHENING CYBER LAW IN BANGLADESH
 
@@ -328,6 +343,7 @@ To build a safer and more resilient digital Bangladesh, several legal reforms ar
 
 Bangladesh has made progress with laws like the **Cyber Security Act (2023)** and the **Cyber Security Ordinance (2025)**. However, to build a **secure and progressive digital nation**, more inclusive, modern, and rights-based reforms are required. These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
 
+</p>
 ---
 
 
