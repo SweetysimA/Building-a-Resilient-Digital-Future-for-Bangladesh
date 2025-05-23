@@ -372,7 +372,7 @@ These reforms will not only protect citizens’ privacy and digital rights but a
 # References
 
 
-- Bangladesh Parliament. (2018). *Digital Security Act, 2018*. Retrieved from https://bdlaws.minlaw.gov.bd
+- Bangladesh Parliament. (2018). *Digital Security Act, 2018*. Retrieved from http://bdlaws.minlaw.gov.bd/
 - Bangladesh Parliament. (2023). *Cyber Security Act, 2023*. Retrieved from https://bdlaws.minlaw.gov.bd
 - Bangladesh Parliament. (2025). *Cyber Security Ordinance, 2025*. Retrieved from https://bdlaws.minlaw.gov.bd
 - European Union. (2016). *General Data Protection Regulation (GDPR)*. Retrieved from https://eur-lex.europa.eu/eli/reg/2016/679/oj
