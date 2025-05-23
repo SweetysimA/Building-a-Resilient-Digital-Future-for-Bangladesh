@@ -351,11 +351,27 @@ To build a safer and smarter digital future, Bangladesh must strengthen its cybe
 
 # CONCLUSION
 <p align="justify">
-To ensure a safe and strong digital future, Bangladesh needs to update its cyber laws and improve how it manages digital challenges. By learning from the world’s leading countries, Bangladesh should enact strong laws to protect personal data, establish a central agency for cybersecurity, create rules for the ethical use of artificial intelligence, pass laws to prevent online bullying, regulate online gambling to reduce social risks, and develop new laws to address emerging issues such as fake news, digital identity protection, and the responsible use of biometric data. These changes will help keep the country safe, protect individual privacy, build trust online, support innovation, and ensure that everyone benefits from the digital world.
+To build a safe, resilient, and forward-looking digital future, Bangladesh must urgently modernize its cyber laws and governance framework. By learning from the best practices of the world’s happiest and most digitally advanced countries, Bangladesh should prioritize passing a comprehensive data protection law and establishing an independent cybersecurity authority. It is also crucial to create clear regulations for emerging technologies such as artificial intelligence and to strengthen laws against cyberbullying and illegal online activities like unauthorized gambling.<br>
+
+These reforms will not only protect citizens’ privacy and digital rights but also foster trust, encourage innovation, and enable the country to respond effectively to evolving cyber threats. A transparent, rights-based, and technology-aware legal framework will help Bangladesh build an inclusive digital society where people feel safe to express themselves and participate fully in the digital economy. Ultimately, these steps will move Bangladesh closer to becoming a secure, innovative, and happier digital nation.
 </p>
 
 
 ---
 
-# REFERENCES
+# References
+# References
+
+- Bangladesh Parliament. (2018). *Digital Security Act, 2018*. Retrieved from https://bdlaws.minlaw.gov.bd
+- Bangladesh Parliament. (2023). *Cyber Security Act, 2023*. Retrieved from https://bdlaws.minlaw.gov.bd
+- Bangladesh Parliament. (2025). *Cyber Security Ordinance, 2025*. Retrieved from https://bdlaws.minlaw.gov.bd
+- European Union. (2016). *General Data Protection Regulation (GDPR)*. Retrieved from https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- Finnish Transport and Communications Agency. (2024). *National Cyber Security Centre Finland*. Retrieved from https://www.kyberturvallisuuskeskus.fi
+- Danish Center for Cyber Security (CFCS). (2022). *Cyber and Information Security Strategy 2022–2024*. Retrieved from https://cfcs.dk
+- Icelandic Ministry of Justice. (2024). *Cybersecurity Law Updates*. Retrieved from https://www.stjornarradid.is
+- Swedish Civil Contingencies Agency (MSB). (2024). *Cybersecurity Framework*. Retrieved from https://www.msb.se
+- Netherlands Ministry of Justice and Security. (2025). *National Cybersecurity Strategy*. Retrieved from https://www.rijksoverheid.nl
+
+
+
 
