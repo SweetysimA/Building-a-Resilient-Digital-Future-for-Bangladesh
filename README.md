@@ -99,9 +99,10 @@ Bangladesh is in the process of introducing a comprehensive <strong>Data Protect
 
 - **Regulatory Oversight**  
   A **Data Protection Authority (DPA)** is expected to be formed to monitor compliance, investigate complaints, and enforce penalties for misuse of data.
+<br>
 
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
+Bangladesh is currently working on new data protection laws to ensure people’s personal information is safe online. These laws are still in the drafting stage and not yet official.
 </p>
 
 </p>
@@ -161,6 +162,19 @@ Although the existing current laws cover many cybercrimes, they still fall short
 
 
 ---
+
+## Table
+
+| Cyber Law                       | Key Problems                                                                 | Suggested Reforms                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| ICT Act, 2006                  | Misuse of Section 57, outdated content                                       | Repeal outdated sections, ensure online freedom                                 |
+| Digital Security Act, 2018     | Limited freedom of speech, misuse                                           | Learn from flaws, draft rights-based laws                                       |
+| Cyber Security Act, 2023       | Vague terms, weak privacy protection                                        | Clarify definitions, add data protection and consent rules                      |
+| Cyber Security Ordinance, 2025 | No AI regulation, weak on data protection                                   | Add AI rules, strengthen privacy laws                                           |
+| Data Protection Law (Draft)    | Not active yet, no enforcement authority                                    | Approve law, create Data Protection Authority                                   |
+| Telecommunications Act, 2001   | Outdated, doesn’t cover apps/platforms                                      | Update for internet governance, net neutrality                                 |
+| Electronic Transaction Act, 2006| Lacks modern e-commerce and fintech coverage                               | Support secure digital payments and contracts                                   |
+
 
 <!-- ## TOP FIVE HAPPIEST AND DEVELOPED COUNTRIES NAME AND THEIR CYBER LAWS -->
 ## TOP 5 HAPPIEST & DEVELOPED COUNTRIES IN 2025 — CYBER LAW OVERVIEW
