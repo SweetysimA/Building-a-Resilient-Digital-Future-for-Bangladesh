@@ -340,9 +340,9 @@ To build a safer and more resilient digital Bangladesh, several legal reforms ar
 
 ## 6. Ensure Freedom of Expression and Digital Rights
 
-- Remove vague legal terms like _"offensive content"_.
+- Remove vague legal terms like "offensive content".
 - Protect lawful speech and opinions shared online.
-- Balance national security and <strong>freedom of expression**, especially for journalists and activists.
+- Balance national security and <strong>freedom of expression</strong>, especially for journalists and activists.
 
 
 ## 7. Promote Digital Literacy and Public Awareness
