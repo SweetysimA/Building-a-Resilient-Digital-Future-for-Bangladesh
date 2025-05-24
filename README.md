@@ -306,53 +306,53 @@ To build a safer and more resilient digital Bangladesh, several legal reforms ar
 - Introduce clear rights for citizens over their personal data (access, correction, deletion).
 - Ensure informed consent before data is collected or shared by companies or the government.
 - Limit data transfers abroad without proper safeguards.
-- Establish a **Data Protection Authority (DPA)** to monitor and enforce data privacy.
+- Establish a </strong>Data Protection Authority (DPA)</strong> to monitor and enforce data privacy.
 
 
 ## 2. Define and Regulate AI Usage
 
-- Create an **AI Governance Framework** to guide the ethical use of artificial intelligence.
-- Mandate **transparency** for AI systems used in the public sector.
+- Create an <strong>AI Governance Framework</strong> to guide the ethical use of artificial intelligence.
+- Mandate <strong>transparency</strong> for AI systems used in the public sector.
 - Ban harmful AI applications (e.g., AI surveillance without consent, deepfakes for disinformation).
 - Encourage ethical AI innovation through public programs and accountability standards.
 
 
 ## 3. Modernize Cyberbullying and Online Harassment Laws
 
-- Clearly define **cyberbullying** and make it a punishable offense.
-- Set up **victim support units** (legal, psychological, digital help).
-- Train **law enforcement and educators** on handling online abuse cases.
+- Clearly define <strong>cyberbullying</strong> and make it a punishable offense.
+- Set up <strong>victim support units</strong> (legal, psychological, digital help).
+- Train <strong>law enforcement and educators</strong> on handling online abuse cases.
 - Conduct awareness programs in schools and communities.
 
 ## 4. Update Gambling Laws to Cover Online Platforms
 
 - Ban unauthorized online gambling with strict enforcement.
-- Create a **licensing system** for legal operators.
+- Create a <strong>licensing system</strong> for legal operators.
 - Protect youth and vulnerable users from gambling addiction.
 
 
 ## 5. Strengthen Cybercrime Investigation and Enforcement
 
-- Establish a **specialized cybercrime court** for faster case resolution.
-- Train **police and judiciary** in handling digital evidence and cyber offenses.
-- Ensure **transparency and oversight** to avoid misuse of power.
+- Establish a <strong>specialized cybercrime court</strong> for faster case resolution.
+- Train <strong>police and judiciary</strong> in handling digital evidence and cyber offenses.
+- Ensure <strong>transparency and oversight</strong> to avoid misuse of power.
 
 
 ## 6. Ensure Freedom of Expression and Digital Rights
 
 - Remove vague legal terms like _"offensive content"_.
 - Protect lawful speech and opinions shared online.
-- Balance national security and **freedom of expression**, especially for journalists and activists.
+- Balance national security and <strong>freedom of expression**, especially for journalists and activists.
 
 
 ## 7. Promote Digital Literacy and Public Awareness
 
 - Launch nationwide awareness programs on digital safety and rights.
-- Integrate **cybersecurity education** into schools and colleges.
+- Integrate <strong>cybersecurity education</strong> into schools and colleges.
 - Provide free tools and training to help people stay secure online.
 
 <p align="justify">
-Bangladesh has made progress with laws like the **Cyber Security Act (2023)** and the **Cyber Security Ordinance (2025)**. However, to build a **secure and progressive digital nation**, more inclusive, modern, and rights-based reforms are required. These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
+Bangladesh has made progress with laws like the <strong>Cyber Security Act (2023)</strong> and the <strong>Cyber Security Ordinance (2025)</strong>. However, to build a <strong>secure and progressive digital nation</strong>, more inclusive, modern, and rights-based reforms are required. These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
 </p>
 
 
