@@ -352,8 +352,11 @@ To build a safer and more resilient digital Bangladesh, several legal reforms ar
 - Provide free tools and training to help people stay secure online.
 
 <p align="justify">
-Bangladesh has made progress with laws like the <strong>Cyber Security Act (2023)</strong> and the <strong>Cyber Security Ordinance (2025)</strong>. However, to build a <strong>secure and progressive digital nation</strong>, more inclusive, modern, and rights-based reforms are required. These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
+  Bangladesh has made progress with laws like the <strong>Cyber Security Act (2023)</strong> and the <strong>Cyber Security Ordinance (2025)</strong>. 
+  However, to build a <strong>secure and progressive digital nation</strong>, more inclusive, modern, and rights-based reforms are required. 
+  These proposals aim to bring Bangladesh closer to international standards and ensure a safe digital future for all.
 </p>
+
 
 
 ---
